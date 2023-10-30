@@ -3,20 +3,23 @@ Description
 This repository contains a Hinglish (a mixture of Hindi and English) translator model. The model is designed to translate text from Hinglish to English or vice versa. This README file provides instructions on how to run the model and how to evaluate its performance.
 
 **Usage**
+
 Prerequisites
+
 Before using the model, ensure that you have the following prerequisites installed:
 
-Python (version 3.12.0)
+->Python (version 3.12.0)
 
-Tensorflow(version 1.41)
+->Tensorflow(version 1.41)
 
-Python packages (NumPy, Pandas, Scikit-learn, etc.)
+->Python packages (NumPy, Pandas, Scikit-learn, etc.)
 
-Jupyter Notebook or your preferred Python development environment
+->Jupyter Notebook or your preferred Python development environment
 
-Pre-trained model weights (mBART or MarianMT)
+->Pre-trained model weights (mBART or MarianMT)
 
 **Running the Model**
+
 1.Clone this repository to your local machine.
 
   **git clone https://github.com/yourusername/hinglish-translator.git**
@@ -50,8 +53,11 @@ To evaluate the model's performance, follow these steps:
 4.Document the results in the README file.
 
 **Example**
+
 You can provide a code snippet or example of how to run the model and evaluate its performance in your specific context.
+
 Statement: I had about a 30 minute demo just using this new headset
+
 Output required: मझु ेसि र्फ ३० minute का demo मि ला था इस नयेheadset का इस्तमे ाल करनेके लिए
 
 **Additional Notes**
