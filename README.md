@@ -1,5 +1,6 @@
 # Hinglish-translator
-Description
+**Description**
+
 This repository contains a Hinglish (a mixture of Hindi and English) translator model. The model is designed to translate text from Hinglish to English or vice versa. This README file provides instructions on how to run the model and how to evaluate its performance.
 
 **Usage**
