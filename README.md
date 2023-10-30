@@ -7,29 +7,46 @@ Prerequisites
 Before using the model, ensure that you have the following prerequisites installed:
 
 Python (version 3.12.0)
+
 Tensorflow(version 1.41)
+
 Python packages (NumPy, Pandas, Scikit-learn, etc.)
+
 Jupyter Notebook or your preferred Python development environment
+
 Pre-trained model weights (mBART or MarianMT)
 
 **Running the Model**
 1.Clone this repository to your local machine.
+
   **git clone https://github.com/yourusername/hinglish-translator.git**
+  
 2.Navigate to the project directory.
+
   **cd hinglish-translator**
+  
 3.Install the required Python packages.
+
  **pip install -r requirements.txt**
+ 
 4.Prepare your input data. You can use the provided sample data in the 'data' directory, or you can use your own data. The input should be in Hinglish.
+
 5.Open the Jupyter Notebook or Python script where the model is implemented.
+
 6.Load the pre-trained model (if applicable) or train the model with your data.
+
 7.Use the model to translate Hinglish text to English or vice versa.
 
 **Evaluating Model Performance**
 
 To evaluate the model's performance, follow these steps:
+
 1.Prepare an evaluation dataset containing Hinglish and corresponding reference translations (in English or Hinglish, depending on your use case).
+
 2.Use the model to translate the Hinglish sentences in the evaluation dataset.
+
 3.Calculate performance metrics such as BLEU score, accuracy, or any other relevant evaluation metric for your specific use case.
+
 4.Document the results in the README file.
 
 **Example**
