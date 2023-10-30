@@ -67,6 +67,7 @@ Output required: मझु ेसि र्फ ३० minute का demo मि 
 4. Integration with external language tools or APIs.
 
 **References**
+
 1."Hinglish-Hindi-English Machine Translation: A New Paradigm"
 Authors: Rashmi Prasad and Hema Murthy
 Published in the proceedings of COLING 2012.
