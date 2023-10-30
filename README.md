@@ -23,7 +23,7 @@ Before using the model, ensure that you have the following prerequisites install
 
 1.Clone this repository to your local machine.
 
-  **git clone https://github.com/yourusername/hinglish-translator.git**
+  **git clone https://github.com/Smrithiv28/hinglish-translator.git**
   
 2.Navigate to the project directory.
 
